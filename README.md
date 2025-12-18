@@ -31,4 +31,4 @@ This repository serves as a portfolio for applied tasks in **Geographic Informat
 - **CRS:** EPSG:25832 (ETRS89 / UTM zone 32N)
 
 ---
-*M.Sc. Student Coursework & Independent Study*
+Author: Melih Levent Aslan | M.Sc. Student, University of Bonn
